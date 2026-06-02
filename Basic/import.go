@@ -15,6 +15,6 @@ func main() {
 
 	}
 	defer resp.Body.Close()
-	fmt.Println("Http Response Status:", resp.status)
+	fmt.Println("Http Response Status:", resp.Status)
 
 }

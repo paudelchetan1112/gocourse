@@ -1,3 +1,5 @@
+//for as while loop
+
 package main
 import "fmt"
 func main(){

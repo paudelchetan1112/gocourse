@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//Print numbers from 10 to 1.
+//1. Print numbers from 10 to 1.
 
 // func main() {
 // for i := 10; i > 0; i-- {
@@ -11,7 +11,7 @@ import "fmt"
 // }
 // }
 
-//3.	Print all even numbers between 1 and 100.
+//2.	Print all even numbers between 1 and 100.
 // func main(){
 // 	for i := 1; i < 100; i++ {
 // 		if i%2==0 {
@@ -20,7 +20,7 @@ import "fmt"
 // 	}
 // }
 
-//4. print all odd number between 1 and 100
+//3. print all odd number between 1 and 100
 // func main(){
 // 	for i := 1; i < 100; i++ {
 // 		if i%2!=0 {
@@ -29,7 +29,7 @@ import "fmt"
 // 	}
 // }
 
-//5. Find the sum of numbers from 1 to 100.
+//4. Find the sum of numbers from 1 to 100.
 // func main(){
 // 	var sum int=0;
 // 	for i := 1; i <= 100; i++ {
@@ -39,7 +39,7 @@ import "fmt"
 // 	fmt.Println(sum)
 // }
 
-//6. 6.	Find the product of numbers from 1 to 10.
+//5.	Find the product of numbers from 1 to 10.
 // func main(){
 // 	var product int=1;
 // 	for i := 1; i <= 10; i++ {
@@ -49,7 +49,7 @@ import "fmt"
 // 	fmt.Println(product)
 // }
 
-//7. 7.	Print the multiplication table of 5.
+//6.	Print the multiplication table of 5.
 // func main(){
 // 	for i := 1; i <= 10; i++ {
 // 		fmt.Println("5 *",i,"=",5*i)
@@ -57,7 +57,7 @@ import "fmt"
 // 	}
 // }
 
-//8.Count the number of digits in a given number.
+//7.Count the number of digits in a given number.
 // func main(){
 // 	var number int=34232323;
 // 	var  count int
@@ -69,7 +69,7 @@ import "fmt"
 
 // }
 
-//9.Multiplication Table from 1-10
+//8.Multiplication Table from 1-10
 // func main(){
 // 	for i := 1; i <=10; i++ {
 // 		fmt.Println("Multiplication table of ",i)
@@ -80,7 +80,7 @@ import "fmt"
 // 	}
 // }
 
-//10. Reverse the given number
+//9. Reverse the given number
 
 // func main(){
 // 	var number int =234234
@@ -95,7 +95,7 @@ import "fmt"
 
 // }
 
-//11. Check the given number is palindrome or not
+//10. Check the given number is palindrome or not
 // func main(){
 // 	var number int=2322
 // 	var rem, result, temp int
@@ -115,7 +115,7 @@ import "fmt"
 // 	}
 // }
 
-//12. Find the sum of digit of the given number
+//11. Find the sum of digit of the given number
 
 // func main(){
 // 	var number int=2323
@@ -129,7 +129,7 @@ import "fmt"
 // 	fmt.Println(result)
 // }
 
-//13.Find the largest digit in a number.
+//12.Find the largest digit in a number.
 // func main(){
 // 	var number int=9328
 // 	var rem , largest int
@@ -145,7 +145,7 @@ import "fmt"
 // 	fmt.Println(largest)
 // }
 
-//14.	Find the smallest digit in a number. 
+//13.	Find the smallest digit in a number. 
 // func main(){
 // 	var number int=9328
 // 	var rem , smallest int
@@ -161,7 +161,7 @@ import "fmt"
 // 	fmt.Println(smallest)
 // }
 
-//15.	Count how many even digits are in a number. 
+//14.	Count how many even digits are in a number. 
 // func main(){
 // 	var number int =34522352680
 // 	var count,rem int
@@ -176,7 +176,7 @@ import "fmt"
 // 	fmt.Println(count)
 // }
 
-// //17.	Print squares of numbers from 1 to 20. 
+// //15.	Print squares of numbers from 1 to 20. 
 // func main(){
 	
 // 	for i :=1; i <= 20; i++ {
@@ -184,7 +184,7 @@ import "fmt"
 // 	}
 // }
 
-// 22.	Print numbers divisible by 3 between 1 and 100. 
+// 16.	Print numbers divisible by 3 between 1 and 100. 
 // func main(){
 // 	for i := 1; i <=100; i++ {
 // 		if i%3==0 {
@@ -194,7 +194,7 @@ import "fmt"
 // 	}
 // }
 
-//23. print numbers divisible by 3 and 5
+//17. print numbers divisible by 3 and 5
 // func main(){
 // 	for i := 1; i <=100; i++ {
 // 		if i%3==0 && i%5==0 {
@@ -203,7 +203,10 @@ import "fmt"
 		
 // 	}
 // }
-//24.81.	Check whether a number is prime. 
+
+
+
+//18.	Check whether a number is prime. 
 // func main(){
 // 	var c1, number int
 // 	c1=0

@@ -1,5 +1,5 @@
+//Number guessing Game 
 package main
-
 import (
 	"fmt"
 	"math/rand"

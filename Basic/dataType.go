@@ -23,8 +23,6 @@ Standard Library Packages/Common Concepts
 JSON: Go provides the encoding/json package for encoding and decoding JSON data.
 Text Templates: The text/template package is used to generate text output from templates.
 HTML Templates: The html/template package is used to generate safe HTML output and helps prevent cross-site scripting (XSS) attacks.
-
-
 */
 package main
 import "fmt"

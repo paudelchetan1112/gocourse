@@ -1,0 +1,24 @@
+
+Struct
+    Struct are defined using the 'type' and 'struct' keywords followed by curly braces '{}' containing a list of ields. 
+    Fields are define with a name and a type. 
+    Anonymous Structs
+    Anonymous Fields
+    Methods:
+            func(value/pointer receiver) methodName(arguments, if any....)<return type, if any>{
+                //Method implementation
+
+            }
+
+    Method Declarationj
+        value receiver Method
+            func (t Type) methodName(){
+                //Method implementation
+            }
+        Pointer receiver methodName 
+            func (t *Type) methodName(){
+                //method implementation
+
+            }
+    Comparing Structs';
+

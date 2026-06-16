@@ -1,1 +1,1 @@
-var fruits =[4]string{"apple","banana", "orange", "grape"}
+	// var nilslice []int

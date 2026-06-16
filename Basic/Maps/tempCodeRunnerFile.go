@@ -1,0 +1,1 @@
+delete(myMap, "key1")

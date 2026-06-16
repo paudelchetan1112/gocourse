@@ -1,0 +1,1 @@
+	// resp,err:=client.Get("https://jsonplaceholder.typicode.com/posts/1")

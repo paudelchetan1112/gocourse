@@ -1,0 +1,6 @@
+Text Templates
+
+Actions
+    Variable Insertion:{{.FieldName}}
+    Pipeline: {{functionName .FieldName}}
+    Control Structure:{{if}}

@@ -26,7 +26,7 @@ func (s *personSorter) Len() int{
 
 func (s *personSorter) Less(i, j int) bool{
 	return s.by(&s.people[i], &s.people[i])
-	
+
 }
 
 
@@ -70,7 +70,6 @@ fmt.Println("Length:", )
 
 // sort.Strings(stringSlice)
 // fmt.Println(stringSlice)
-
 
 
 
